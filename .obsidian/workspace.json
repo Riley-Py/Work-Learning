@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADFS/Computer Objects.md",
+                "file": "ADDS/Computer Objects.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,19 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b59644360e92cee",
+  "active": "d1c0a2a624d60373",
   "lastOpenFiles": [
-    "ADFS/Definitions.md",
-    "ADFS/Computer Objects.md",
-    "Pasted image 20260916160118.png",
-    "ADFS/Group Objects.md",
-    "ADFS/User Objects.md",
-    "Pasted image 20260916155406.png",
+    "ADDS/Definitions.md",
+    "ADDS/Computer Objects.md",
+    "Images/Pasted image 20260916160118.png",
+    "ADDS/Group Objects.md",
+    "ADDS/User Objects.md",
+    "Images/Pasted image 20260916155406.png",
     "Images/Pasted image 20260916153935.png",
     "Images",
     "Images/Pasted image 20260916153503.png",
     "README.md",
-    "ADFS",
+    "ADDS",
     "Testing.md"
   ]
 }
