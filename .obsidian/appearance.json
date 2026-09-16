@@ -1,1 +1,6 @@
-{}
+{
+  "textFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "Cascadia Code",
+  "cssTheme": "Wasp",
+  "theme": "obsidian"
+}

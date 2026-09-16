@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "ADFS/Computer Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "Computer Objects"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "ADFS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "ADFS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md",
+                "file": "ADFS/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,17 @@
   },
   "active": "1b59644360e92cee",
   "lastOpenFiles": [
+    "ADFS/Definitions.md",
+    "ADFS/Computer Objects.md",
+    "Pasted image 20260916160118.png",
+    "ADFS/Group Objects.md",
+    "ADFS/User Objects.md",
+    "Pasted image 20260916155406.png",
+    "Images/Pasted image 20260916153935.png",
+    "Images",
+    "Images/Pasted image 20260916153503.png",
+    "README.md",
+    "ADFS",
     "Testing.md"
   ]
 }

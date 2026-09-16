@@ -1,0 +1,21 @@
+- *AD DS (Active Directory Domain Services)* - central store of domain objects (user accounts, computer accounts, groups); has logical/physical components
+- *Partition* - portion of ADDS database
+	- Different partitions contain different data
+- *Schema* - set of definitions of object types/attributes utilized to define objects
+- *Domain* - admin container for objects like users/computers; maps to partition
+- *Domain Tree* - hierarchical collection that share root domain and DNS namespace
+- *Forest* - collection of one or more domains that have common root, schema, global catalog
+- *OU (organizational units)* - container object for users, groups, computers to delegate admin rights by linking Group Policy Objects (GPO)
+- *Container* - object that provides organizational framework for ADDS 
+
+### Physical Components
+- Objects that are tangible
+- Diagram
+	- ![[Pasted image 20260916153503.png]]
+- Components
+	- *Domain Controller* - copy of ADDS database
+	- *Data store* - copy of data store on each domain controller
+	- *Global catalog server* - domain controller hosting global catalog (partial, read-only copy of all objects in multiple-domain forest)
+	- *Read-only domain controller (RODC)* - read-only installation of ADDS
+	- *Site* - container for ADDS objects
+	- *Subnet* - portion of network IP addresses assigned to computers in site; site can have more than one subnet
