@@ -5,3 +5,9 @@
 	- *User accounts* - info for authentication/access token
 	- *Computer accounts*
 	- *Groups* - organize users/computers
+- AD DS domain is
+	- *Replication bounded* - make changes to any object in domain, controller replicates change to all other domain controllers in domain
+	- *Administrative unit* - contains admin account/Domain Admins group; has full control over every object in domain
+- AD DS domain provides
+	- *Authentication*
+	- *Authorization*

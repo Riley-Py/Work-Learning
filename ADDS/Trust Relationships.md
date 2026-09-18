@@ -1,0 +1,15 @@
+- *Parent - child*
+	- Transitive
+	- Two-way
+	- Add new AD DS domain to existing tree, you create new parent - child 
+- *Tree - root*
+	- Transitive
+	- Two-way
+	- Create new tree in existing forest, you create tree-root
+- *External*
+	- Non-transitive
+	- One/two way
+	- Resource access with AD DS domain in another forest
+- *Realm*
+	- Transitive/nontransitive
+	- One/two
