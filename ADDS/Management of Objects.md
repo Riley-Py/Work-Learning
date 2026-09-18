@@ -10,4 +10,8 @@
 	- Manage objects that Dynamic Access Control feature requires
 ## Windows Admin Center
 - ![[Pasted image 20260918134231.png]]
-- Web-based console
+- Web-based console; used instead of Remote Server Admin Tools
+
+## Remote Server Admin Tools (RSAT)
+- ![[Pasted image 20260918134333.png]]
+- 
