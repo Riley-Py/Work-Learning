@@ -8,6 +8,13 @@
 - Created for two reasons
 	- Consolidation to use GPOs
 	- Dole out admin control of objects within OU
+- Admin needs of organization determine design of OU hierarchy 
+	- Example: group computers in OU and assign GPO to manage computers
+- Can create sub OUs
 
 ## Generic Containers
-- Built-in containers like Users
+- Built-in containers like Users and Computers
+- Can't apply GPO to container
+- Diagram
+	- ![[Pasted image 20260918133810.png]]
+
