@@ -1,0 +1,13 @@
+- Collection of one or more domain trees sharing common directory schema/global catalog
+	- Trees share namespace
+- *Root* - contains objects that don't exist in other domains in the forest
+- Diagram:
+	- ![[Pasted image 20260918131939.png]]
+- Objects in forest root
+	- Schema
+	- Domain naming
+	- Enterprise Admins
+	- Schema Admins
+- AD DS forest is
+	- *Security bounded* - no users from outside forest can access any resources inside forest; domains in forest trust other domains with same forest
+	- *Replication bounded* - additional forests must be made 
