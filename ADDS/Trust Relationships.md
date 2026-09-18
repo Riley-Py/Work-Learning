@@ -12,4 +12,13 @@
 	- Resource access with AD DS domain in another forest
 - *Realm*
 	- Transitive/nontransitive
-	- One/two
+	- One/two way
+	- Establish authentication path between server and Kerberos protocol 
+- *Forest*
+	- Transitive
+	- One/two way
+	- Allows forest to share resources
+- *Shortcut*
+	- Nontransitive
+	- One/two way
+	- Reduce time to authenticate between domains that are in different forests
