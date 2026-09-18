@@ -1,0 +1,7 @@
+- Container for management of user, computer, group, other objects
+- Image:
+	- ![[Pasted image 20260918132443.png]]
+- Objects used
+	- *User accounts* - info for authentication/access token
+	- *Computer accounts*
+	- *Groups* - organize users/computers

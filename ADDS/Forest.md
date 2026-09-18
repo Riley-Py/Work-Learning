@@ -8,6 +8,11 @@
 	- Domain naming
 	- Enterprise Admins
 	- Schema Admins
+- Objects in all domains
+	- RID
+	- Infrastructure
+	- PDC (Primary Domain Controller) emulator
+	- 
 - AD DS forest is
 	- *Security bounded* - no users from outside forest can access any resources inside forest; domains in forest trust other domains with same forest
-	- *Replication bounded* - additional forests must be made 
+	- *Replication bounded* - additional forests must be made with applications that have incompatible schemas
